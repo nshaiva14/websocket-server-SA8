@@ -19,7 +19,12 @@
     "body-parser": "^1.17.1",
     "cors": "^2.8.3",
     "ejs": "^2.5.6",
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "http": "0.0.0",
+    "lodash.debounce": "^4.0.8",
+    "lodash.throttle": "^4.1.1",
+    "mongoose": "^4.10.2",
+    "socket.io": "^2.0.1"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
